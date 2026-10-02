@@ -27,4 +27,4 @@ A CodeIgniter 4 Point-of-Sale system using MySQL database integration.
 Database name:
 
 ```text
-pos_system
+tasks_today
